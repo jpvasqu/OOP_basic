@@ -10,5 +10,5 @@ import port
 var1=int(input("Enter 1st integer number:"))
 var2=int(input("Enter 2nd integer number:"))
 var3=int(input("Enter 3rd integer number:"))
-#file_name.function_name
+#syntax to use the port = file_name.function_name
 port.compute(var1,var2,var3)
