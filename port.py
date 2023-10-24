@@ -1,9 +1,9 @@
-def even_or_odd(pol):
+def even_or_odd(var1):
 
     if pol%2==0:
-        print(f"The Number {pol} is EVEN number.")
+        print(f"The Number {var1} is EVEN number.")
     else:
-        print(f"The Number {pol} is ODD number.")
+        print(f"The Number {var1} is ODD number.")
 
 
 def compute(v1,v2,v3):
